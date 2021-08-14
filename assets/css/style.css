@@ -14,18 +14,21 @@
         -o-background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
+        background-size: cover;
     }
     33%{
         background: url('../img/Slider/slider2.png') top center / cover no-repeat;
         -o-background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
+        background-size: cover;
     }
     66%{
         background: url('../img/Slider/slider3.png') top center / cover no-repeat;
         -o-background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
+        background-size: cover;
     }
 }
 
