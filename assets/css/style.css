@@ -10,19 +10,19 @@
 
 @keyframes slide-img {
     0%{
-        background: url('../img/Slider/slider1.JPG') top center / cover no-repeat;
+        background: url('../img/Slider/slider1.png') top center / cover no-repeat;
         -o-background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
     }
     33%{
-        background: url('../img/Slider/slider2.jpg') top center / cover no-repeat;
+        background: url('../img/Slider/slider2.png') top center / cover no-repeat;
         -o-background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
     }
     66%{
-        background: url('../img/Slider/slider3.JPG') top center / cover no-repeat;
+        background: url('../img/Slider/slider3.png') top center / cover no-repeat;
         -o-background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
