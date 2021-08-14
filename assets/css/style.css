@@ -8,7 +8,7 @@
     display: none; 
 }
 
-@keyframes slide-img {
+/* @keyframes slide-img {
     0%{
         background: url('../img/Slider/slider1.png') top center / cover no-repeat;
         -o-background-size: cover;
@@ -30,7 +30,7 @@
         -webkit-background-size: cover;
         background-size: cover;
     }
-}
+} */
 
 /*
 ---------
@@ -221,8 +221,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    /* background: url('/The\ band\ project/assets/img/slider/slider1.jpg') 
-    top center / cover no-repeat; */
+    background: url('../img/Slider/slidergif.gif') top center / cover no-repeat;
     animation: slide-img 10s infinite;
     animation-timing-function:  step-end;
 }
